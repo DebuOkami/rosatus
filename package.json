@@ -1,0 +1,26 @@
+{
+  "name": "rosatus-blog",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "test": "npm run docs:build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DebuOkami/rosatus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DebuOkami/rosatus/issues"
+  },
+  "homepage": "https://debuokami.github.io/rosatus/",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
