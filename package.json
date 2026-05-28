@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/DebuOkami/rosatus/issues"
   },
-  "homepage": "https://debuokami.github.io/rosatus/",
+  "homepage": "https://rosatus.com/",
   "devDependencies": {
     "vitepress": "^1.6.4"
   }

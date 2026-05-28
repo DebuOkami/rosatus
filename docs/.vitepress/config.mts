@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'Rosatus',
   description: 'Personal static blog powered by VitePress.',
-  base: '/rosatus/',
+  base: '/',
   cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
