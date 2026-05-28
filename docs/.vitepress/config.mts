@@ -4,6 +4,9 @@ export default defineConfig({
   title: 'Rosatus',
   description: 'Personal static blog powered by VitePress.',
   base: '/',
+  head: [
+    ['link', { rel: 'icon', href: '/logo.svg', type: 'image/svg+xml' }]
+  ],
   cleanUrls: true,
   lastUpdated: true,
   themeConfig: {
