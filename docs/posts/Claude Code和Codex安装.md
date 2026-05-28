@@ -1,3 +1,15 @@
+---
+title: Claude Code 和 Codex 安装指南
+date: 2026-05-28
+description: 在 WSL2 Ubuntu 环境中配置 Node.js，并安装 Claude Code CLI、OpenAI Codex CLI 与 cc-switch。
+tags:
+  - Claude Code
+  - Codex
+  - WSL2
+  - Node.js
+  - 开发环境
+---
+
 ## 第一阶段：搭建 WSL2 Linux 环境（macos 和 linux 跳过）
 
 我们将所有 AI 工具安装在 WSL2 (Ubuntu) 中，这样能获得原生、稳定的 Linux 隔离环境和工具链支持。
